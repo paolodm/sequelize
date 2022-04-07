@@ -36,7 +36,7 @@
     "generic-pool": "2.1.1",
     "inflection": "1.5.2",
     "lodash": "~2.4.0",
-    "moment": "~2.8.0",
+    "moment": "~2.29.2",
     "node-uuid": "~1.4.1",
     "bluebird": "~2.3.2",
     "sql": "~0.40.0",
