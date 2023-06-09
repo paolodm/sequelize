@@ -32,7 +32,7 @@
     "url": "https://github.com/sequelize/sequelize/issues"
   },
   "dependencies": {
-    "dottie": "0.2.4",
+    "dottie": "2.0.4",
     "generic-pool": "2.1.1",
     "inflection": "1.5.2",
     "lodash": "~2.4.0",
