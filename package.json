@@ -42,7 +42,7 @@
     "sql": "~0.40.0",
     "pg-hstore": "^2.2.0",
     "toposort-class": "~0.3.0",
-    "validator": "~3.22.0"
+    "validator": "~13.15.22"
   },
   "devDependencies": {
     "chai-as-promised": "^4.1.1",
